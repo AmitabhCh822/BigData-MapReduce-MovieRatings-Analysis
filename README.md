@@ -1,7 +1,7 @@
 # Big Data MapReduce Movie Ratings Analysis
 
 ## Introduction
-Welcome to the 'BigData-MapReduce-MovieRatings-Analysis' repository! This project focuses on leveraging the power of big data processing techniques using MapReduce, implemented in Python with the mrjob library, to analyze movie ratings data.
+Welcome to the 'BigData-MapReduce-MovieRatings-Analysis' repository. This project focuses on leveraging the power of big data processing techniques using MapReduce, implemented in Python with the mrjob library, to analyze movie ratings data.
 
 ## Project Description
 This repository contains a collection of scripts designed to process and analyze large datasets of movie ratings. The primary goals of this project include:
@@ -11,7 +11,7 @@ This repository contains a collection of scripts designed to process and analyze
 
 ## Technical Requirements
 To run these scripts, you will need:
-- Python 3.x
+- Python
 - The mrjob library
 
 ### Installation
@@ -27,7 +27,7 @@ Replace `<script_name.py>` with the name of the script you want to run and `<inp
 
 ## Data Format
 The scripts expect input data in the following format:
-- Tab-separated values with fields: userID, movieID, rating, and timestamp.
+- Tab-separated values with fields: userID, movieID, rating and timestamp.
 
 ## Contributing
 Contributions to this project are welcome. Please adhere to the following guidelines:
